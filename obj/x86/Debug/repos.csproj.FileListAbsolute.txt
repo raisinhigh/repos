@@ -1,0 +1,12 @@
+c:\users\asus\documents\visual studio 2010\Projects\repos\repos\bin\Debug\repos.exe
+c:\users\asus\documents\visual studio 2010\Projects\repos\repos\bin\Debug\repos.pdb
+c:\users\asus\documents\visual studio 2010\Projects\repos\repos\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2010\Projects\repos\repos\obj\x86\Debug\repos.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2010\Projects\repos\repos\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\asus\documents\visual studio 2010\Projects\repos\repos\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\asus\documents\visual studio 2010\Projects\repos\repos\obj\x86\Debug\repos.exe
+c:\users\asus\documents\visual studio 2010\Projects\repos\repos\obj\x86\Debug\repos.pdb
+c:\users\asus\documents\visual studio 2010\Projects\repos\repos\bin\Debug\repos.exe.manifest
+c:\users\asus\documents\visual studio 2010\Projects\repos\repos\bin\Debug\repos.application
+c:\users\asus\documents\visual studio 2010\Projects\repos\repos\obj\x86\Debug\repos.exe.manifest
+c:\users\asus\documents\visual studio 2010\Projects\repos\repos\obj\x86\Debug\repos.application
